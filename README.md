@@ -1,3 +1,9 @@
-# Compose
-# Название сайта
-# Установка
+<html>
+  <head>
+    <title>magazine</title>
+  </head>
+  <body>
+    <h1>Online-magazine</h1>
+    <p></p>
+  </body>
+</html>
